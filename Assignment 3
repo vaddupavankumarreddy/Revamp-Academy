@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tasks</title>
+</head>
+<body>
+    <!-- Heading from H1 to H6 -->
+    <h1>This is Heading 1</h1>
+    <h2>This is Heading 2</h2>
+    <h3>This is Heading 3</h3>
+    <h4>This is Heading 4</h4>
+    <h5>This is Heading 5</h5>
+    <h6>This is Heading 6</h6>
+
+    <!-- Paragraph tag with content -->
+    <p>Hello World</p>
+
+    <!-- Button -->
+    <button>Click Me</button>
+
+    <!-- Anchor Element -->
+    <a href="page.html" target="_blank">Go to Page</a>
+
+    <!-- Another paragraph with bold word -->
+    <p>
+        such as <b>Project</b> Drawdown's 100 actionable solutions for climate change.
+    </p>
+
+    <!-- Ordered and Unordered Lists -->
+    <h2>Ordered List</h2>
+    <ol>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+    </ol>
+
+    <h2>Unordered List</h2>
+    <ul>
+        <li>Item A</li>
+        <li>Item B</li>
+        <li>Item C</li>
+    </ul>
+
+    <!-- Add Image -->
+    <h2>Images</h2>
+    <!-- Image from Local Storage -->
+    <img src="local-image.jpg" alt="Local Image" width="300">
+
+    <!-- Image from CDN -->
+    <img src="https://via.placeholder.com/300" alt="CDN Image" width="300">
+
+    <!-- Add Video -->
+    <h2>Video</h2>
+    <video width="320" height="240" controls>
+        <source src="https://samplelib.com/lib/preview/mp4/sample-5s.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+
+    <!-- Create Form -->
+    <h2>Form</h2>
+    <form>
+        <label for="username">USERNAME: </label>
+        <input type="text" id="username" placeholder="Enter Username">
+        <br><br>
+        <label for="password">PASSWORD: </label>
+        <input type="password" id="password" placeholder="Enter Password">
+        <br><br>
+        <button type="submit">Submit</button>
+    </form>
+
+    <!-- 5 HTML entries with 3 matching images above -->
+    <h2>HTML Entries</h2>
+    <p>1. This is an HTML entry related to the local image displayed above.</p>
+    <p>2. Another entry showcasing the video section we implemented.</p>
+    <p>3. This entry is linked to the CDN image shown above.</p>
+    <p>4. An HTML form entry representing user input functionality.</p>
+    <p>5. A final entry explaining the use of ordered and unordered lists on this page.</p>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+Answer all the Questions
+
+	1.	Shortcut Emmet Used to Create Boilerplate of HTML
+	•	Type ! and press Tab or Enter.
+
+
+	2.	What is DOCTYPE in HTML?
+	•	It specifies the HTML version being used and ensures consistent rendering across browsers.
+
+
+	3.	What is Void Element and Example for Void Elements?
+	•	Void elements are self-closing tags that don’t require a closing tag.
+    Example: <img>, <br>, <hr>, <input>.
+
+
+	4.	What is the Difference Between Element and Attributes?
+	•	Element: Defines the structure/content (e.g., <p>).
+	•	Attribute: Adds properties or behaviors to elements (e.g., class="text").
+
+
+	5.	What are HTML Entries and Why are They Needed in HTML?
+	•	HTML entries are special character codes (e.g., &lt; for <) used to display reserved characters or symbols in the browser. They’re needed to avoid misinterpretation of code.
+
+
+	6.	What are Meta Tags and Why Are They Used?
+	•	Meta tags provide metadata about the webpage (e.g., charset, viewport). They are used for SEO, responsiveness, and defining document properties.
+
+
+	7.	What is the Best Way to Add Images in a Website?
+	•	Use optimized images with the <img> tag, and specify alt attributes for accessibility and SEO.
+
