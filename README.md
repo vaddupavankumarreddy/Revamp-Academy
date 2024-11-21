@@ -1,7 +1,6 @@
 # Revamp-Academy
 # HTML FULL NOTES
 
-by [﻿Venkatesan G](https://www.linkedin.com/in/venkatesan-tech/)﻿
 
 # **1. Basic Structure**
 The basic structure of any HTML document is as follows:
